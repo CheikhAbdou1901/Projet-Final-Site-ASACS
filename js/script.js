@@ -159,7 +159,7 @@ contactForm.addEventListener("submit", function (event) {
     "Message : " + donnees.get("message")
   ].join("\n");
 
-  if (NUMERO_WHATSAPP === "221773866051") {
+  if (NUMERO_WHATSAPP === "") {
     contactFeedback.textContent = "Avant la mise en ligne, remplacez le numéro d'exemple dans js/script.js par le numéro WhatsApp officiel de l'ASACS.";
     return;
   }
@@ -173,7 +173,7 @@ contactForm.addEventListener("submit", function (event) {
 const whatsappContact = document.getElementById("whatsappContact");
 whatsappContact.addEventListener("click", function (event) {
   event.preventDefault();
-  if (NUMERO_WHATSAPP === "221773866051") {
+  if (NUMERO_WHATSAPP === "") {
     alert("Configurez le numéro WhatsApp officiel dans js/script.js.");
     return;
   }
@@ -185,7 +185,7 @@ document.querySelectorAll(".whatsapp-order").forEach(function (lien) {
   lien.addEventListener("click", function (event) {
     event.preventDefault();
     const produit = lien.dataset.product;
-    if (NUMERO_WHATSAPP === "221773866051") {
+    if (NUMERO_WHATSAPP === "") {
       alert("Configurez le numéro WhatsApp officiel dans js/script.js.");
       return;
     }
