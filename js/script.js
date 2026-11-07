@@ -15,7 +15,7 @@ const actualites = [
     contenu: "Les 48H de l’ASACS ont pour objectifs de promouvoir l’excellence scolaire, de valoriser le patrimoine culturel de Sagne, de faciliter l’accès aux soins et de sensibiliser les populations aux enjeux sanitaires. Elles visent également à renforcer la solidarité, la cohésion sociale et l’engagement citoyen, tout en encourageant la pratique sportive, la détection des talents locaux et le fair-play. À travers ces activités, l’ASACS entend mobiliser toutes les forces vives de la communauté autour d’un idéal commun : contribuer au développement de Sagne et au bien-être de ses populations."
   },
   {
-    titre: "Consultation médicale gratuite et Don de medicaments ASACS",
+    titre: "Consultation médicale gratuite et Don de medicaments par l'ASACS",
     date: "17 Sepembre 2025",
     image: "assets/images/Don de medicaments.jpeg",
     resume: "Organisation de consultations médicales gratuites et de dons de médicaments par l'ASACS.",
