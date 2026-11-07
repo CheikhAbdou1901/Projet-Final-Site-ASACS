@@ -24,7 +24,7 @@ const actualites = [
   {
     titre: "Ensemble autour des projets de développement",
     date: "À compléter",
-    image: "assets/images/jeunes.jpeg",
+    image: "assets/images/Jeunes.jpeg",
     resume: "L'ASACS entend mobiliser les énergies locales autour de projets utiles à la communauté.",
     contenu: "L’ASACS œuvre à mobiliser les forces vives de Sagne autour de projets structurants visant à améliorer les conditions de vie des populations. Ces initiatives portent notamment sur l’éducation, la santé, la jeunesse, le sport, la culture et les infrastructures communautaires. Les projets et les priorités seront présentés et actualisés progressivement, au fur et à mesure de leur validation par les instances de l’association."
   }
