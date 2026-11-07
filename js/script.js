@@ -2,7 +2,7 @@
    Les contenus faciles à modifier (actualités et coordonnées) sont regroupés ici. */
 
 // 1. CONFIGURATION : remplacez ces valeurs avant la mise en ligne.
-const NUMERO_WHATSAPP = "221770000000"; // Format international, sans + ni espaces.
+const NUMERO_WHATSAPP = "221773866051"; // Format international, sans + ni espaces.
 const ADRESSE_EMAIL = ""; // Exemple : contact@asacs.sn (facultatif)
 
 // 2. ACTUALITÉS : ajoutez une nouvelle actualité en copiant un objet.
